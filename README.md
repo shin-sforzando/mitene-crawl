@@ -9,4 +9,4 @@ Crawl all images and videos from mitene.us
 
 ### Author
 
-* Shin'ichiro Suzuki
+- Shin'ichiro Suzuki
