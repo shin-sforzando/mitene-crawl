@@ -1,0 +1,25 @@
+{
+  "name": "mitene-crawl",
+  "version": "1.0.0",
+  "description": "Crawl all images and videos from mitene.us",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shin-sforzando/mitene-crawl.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "Shin'ichiro Suzuki <shin@sforzando.co.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shin-sforzando/mitene-crawl/issues"
+  },
+  "homepage": "https://github.com/shin-sforzando/mitene-crawl#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
