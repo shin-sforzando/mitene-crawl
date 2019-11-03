@@ -2,10 +2,10 @@
 
 Crawl all images and videos from mitene.us
 
-- [Misc.](#misc)
+- [Misc](#misc)
   - [Author](#author)
 
-## Misc.
+## Misc
 
 ### Author
 
