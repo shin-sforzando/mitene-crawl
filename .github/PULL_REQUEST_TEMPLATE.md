@@ -1,19 +1,28 @@
-## 概要
+## Describe the PR
 
-<!-- 変更の目的 もしくは 関連する Issue 番号 -->
+Related issue and a clear and concise description of what the PR is.
 
-## 変更内容
+## Screenshots
 
-<!-- ビューの変更がある場合はスクショによる比較などがあるとわかりやすい -->
+If applicable, add screenshots to help explain your problem.
 
-## 影響範囲
+## Detail of the change
 
-<!-- この関数を変更したのでこの機能にも影響がある、など -->
+A clear and concise description of what you changed.
 
-## 動作要件
+## Anticipated impacts
 
-<!-- 動作に必要な 環境変数 / 依存関係 / DBの更新 など -->
+A clear and concise description of where may be affected by the changes.
 
-## 備考
+## To reproduce
 
-<!-- レビューをする際に見てほしい点、ローカル環境で試す際の注意点、など -->
+Steps to check the behavior:
+
+1. Update Libraries `...`
+2. Import Database `...`
+3. Reload Pages `...`
+4. Click on `...`
+
+## Additional context
+
+Add any other context about the problem here.

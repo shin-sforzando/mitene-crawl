@@ -4,6 +4,7 @@
   "description": "Crawl all images and videos from mitene.us",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +22,6 @@
   "homepage": "https://github.com/shin-sforzando/mitene-crawl#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "puppeteer": "^2.0.0"
+    "puppeteer": "^3.3.0"
   }
 }
